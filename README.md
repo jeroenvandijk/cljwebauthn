@@ -34,7 +34,7 @@ me.grison/cljwebauthn {:mvn/version "0.1.3"}
 
 **Leiningen/Boot**
 ```clojure
-[me.grison/cljwebauthn "0.1.2"]
+[me.grison/cljwebauthn "0.1.3"]
 ```
 
 ## API
